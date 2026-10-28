@@ -1,2 +1,2 @@
-fastmcp[apps]>=4,<5
+fastmcp[total]>=4,<5
 prefab-ui
